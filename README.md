@@ -29,13 +29,13 @@ description: "OOOOO DevLog" # 블로그 설명
 url: "https://github-account.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "github-account/github-account.github.io" # GitHub Repo 이름
-logo : "/assets/images/main.png"
+# logo : # 상단 헤더의 블로그 타이틀 앞에 로고 추가하고 싶을 경우 사용
 
 ---
 # Site Author (Home에서 해당 내용은 숨김 상태)
 author:
   name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/main.png" # 블로그 프로필 사진
+  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
